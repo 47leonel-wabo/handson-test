@@ -1,6 +1,7 @@
 # Hands on testing with Spring Boot
 
 Hands on Spring Boot test following `Given-When-Then` pattern for BDD with Mockito and AssertJ.
+Also, covert caching and exceptions.
 
 ## Libraries
 
