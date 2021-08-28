@@ -69,6 +69,8 @@
 				<extensions>true</extensions>
 				<configuration>
 					<testFramework>JUNIT5</testFramework>
+					<testMode>MOCKMVC</testMode>
+					<baseClassForTests>com.handson.test.StudentControllerBaseClass</baseClassForTests>
 				</configuration>
 			</plugin>
 			<plugin>
