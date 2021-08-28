@@ -17,6 +17,7 @@ Also, covert caching and exceptions.
 * Spring Data JPA
 * H2 Database
 * Project Lombok
+* Contract verifier (for defining contract between producer and customer)
 
 ## Credit
 
